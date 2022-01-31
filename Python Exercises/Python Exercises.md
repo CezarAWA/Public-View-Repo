@@ -1,1 +1,1 @@
-This file was created to keep and show all the Python exercises done through my postgraduate course.
+This file was created to keep and show all the Python exercises done throughout my postgraduate course.
