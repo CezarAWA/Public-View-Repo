@@ -7,7 +7,7 @@
 # Defining a list with the price of alcohol and gas #
 pc = [1.90,2.50]
 
-# Asking the user wich fuel will be chosen #
+# Asking the User wich fuel will be chosen #
 print(f'Please, choose fuel: [0]Alcohol [1]Gas:')
 c=input()
 c=int(c)
