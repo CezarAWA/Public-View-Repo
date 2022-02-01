@@ -12,7 +12,7 @@ print(f'Please, choose fuel: [0]Alcohol [1]Gas:')
 c=input()
 c=int(c)
 
-# Asking the user how much fuel is wanted # 
+# Asking the User how much fuel is wanted # 
 print(f'Please, type fuel quantity in liters:')
 nl=float(input())
 
